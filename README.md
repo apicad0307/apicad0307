@@ -4,5 +4,3 @@ Hi, There🙌
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=apicad0307)](https://solved.ac/apicad0307)
-
-블로그: https://signalman.github.io
